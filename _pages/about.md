@@ -12,7 +12,7 @@ Welcome. I’m **Inderjeet**, currently a Senior Researcher at **Fujitsu Researc
 
 ## Recent News 🗞️
 
-- **2024-07-17**: A paper accepted as **Oral** at **BMVC-2024 Conference**.
+- **2024-07-17**: A paper accepted as **Oral** (<3% acceptance rate) at **BMVC-2024 Conference**.
 - **2024-07-01**: A paper accepted at **ECCV-2024 Conference**.
 - **2024-01-14**: Presented a **Long Talk Paper** (9.5% acceptance rate) at **ACML-2023 Conference**.
 
@@ -21,10 +21,10 @@ Welcome. I’m **Inderjeet**, currently a Senior Researcher at **Fujitsu Researc
 These milestones mark my ongoing exploration in the vast landscape of AI.
 
 ### Intellectual Property 🧠
-- **Patents**: Filed **10 patents** in AI, computer vision, and network security.
+- **Patents**: Filed **more than 10 patents** in AI Security, Computer Vision, NLP, and Cybersecurity.
 
 ### Scholarly Contributions 👨‍🔬
-- **Publications**: Authored **11 research papers** at key international conferences and journals.
+- **Publications**: Authored **more than 10 research papers** at top international conferences and journals.
 
 ### Research Philosophy 👨‍🏫
 
