@@ -11,7 +11,7 @@ redirect_from:
 Welcome! I’m **Inderjeet**, a Senior Researcher at **Fujitsu Research Europe**. My work spans the fields of **generative AI** and **trustworthy AI**, with a strong focus on embedding **security** and **reliability** into these advancing technologies. This path in AI is not just a professional journey for me but also a continuous pursuit of understanding how to build systems that are both **high-performing** and **trusted**.
 
 ## Current Work
-Currently I am focusing on developing Multimodal Agentic RAG systems and LLM Security.
+Currently I am focusing on developing **Multimodal Agentic RAG systems**, **LLM Security**, and **Multimodal Information Retrieval**.
 
 ## Recent News 🗞️
 
