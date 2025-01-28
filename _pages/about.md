@@ -8,7 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I’m **Inderjeet**, a Senior Researcher at **Fujitsu Research Europe** and an AI Research Scientist with a PhD in **Mathematics and Machine Learning**. My work spans the fields of **generative AI** and **trustworthy AI**, with a strong focus on embedding **security** and **reliability** into these advancing technologies. This path in AI is not just a professional journey for me but also a continuous pursuit of understanding how to build systems that are both **high-performing** and **trusted**.
+Welcome! I’m **Inderjeet**, a Senior Researcher at **Fujitsu Research Europe**. My work spans the fields of **generative AI** and **trustworthy AI**, with a strong focus on embedding **security** and **reliability** into these advancing technologies. This path in AI is not just a professional journey for me but also a continuous pursuit of understanding how to build systems that are both **high-performing** and **trusted**.
+
+## Current Work
+Currently I am focusing on developing Multimodal Agentic RAG systems and LLM Security.
 
 ## Recent News 🗞️
 
@@ -31,10 +34,6 @@ I view AI as a practical lens through which to interpret and engage with the wor
 
 ## Education
 
-### PhD
-- **Mathematics and Machine Learning**  
-  — Completed doctoral research focusing on advanced computational and optimization methods.
-
 ### Postgrad
 - **Operations Research**  
   — ***Indian Institute of Technology Bombay***, Mumbai  
@@ -50,9 +49,9 @@ I view AI as a practical lens through which to interpret and engage with the wor
 Sports have been integral to my perspective on tackling challenges, offering balance to the cerebral rigor of research:
 
 - **Badminton**: **National-Level Player** (Seniors); claimed **silver medals** at university games while serving as captain.
-- **Kho-Kho**: Competed at **National-Level Games** (Seniors, during undergrad); won **gold** representing **IIT Bombay**.
+- **Kho-Kho**: Selected for **National-Level Games** (Seniors, during undergrad); won **gold** representing **IIT Bombay**.
 - **Cricket**: Played for **Alpha Quashers Yokohama Cricket Club Japan**’s Division-1 team (2021–2023).
-- **Table Tennis**: Competed at the **District-Level** (Under-14); earned a **silver medal**.
+- **Table Tennis**: Competed at the **District-Level** (Under-14); won **silver medal**.
 
 ## Let's Connect 🌐
 
