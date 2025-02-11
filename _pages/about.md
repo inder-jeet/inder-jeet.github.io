@@ -15,7 +15,7 @@ Currently I am focusing on developing **Multimodal Agentic RAG systems**, **LLM 
 
 ## Recent News 🗞️
 
-- **2024-07-17**: A paper accepted at **ACM ICSE RAIE**.
+- **2024-12-10**: A paper accepted at **ACM ICSE RAIE**.
 - **2024-07-17**: A paper accepted as an **Oral Presentation** (<3% acceptance rate) at **BMVC-2024**.
 - **2024-07-01**: A paper accepted at **ECCV-2024**.
 - **2024-01-14**: Presented a **Long Talk Paper** (9.5% acceptance rate) at **ACML-2023**.
